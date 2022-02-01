@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724329811996",
+    "project_id": "tictactoe-multiplayer-c4acd",
+    "storage_bucket": "tictactoe-multiplayer-c4acd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724329811996:android:3bf9dca0aab7ecded48fd9",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TicTacToe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724329811996-n2959k86pcfo7fi57hvficb5abm0ee7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACPXjW1Pc3fkIpuTcQfld8vROxYi1F7xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724329811996-n2959k86pcfo7fi57hvficb5abm0ee7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
